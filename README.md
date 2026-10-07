@@ -9,7 +9,7 @@
 ![modo-espelho](assets/support/project-pt-br.svg)
 
 <!-- public-badges:start -->
-[![license](assets/support/badge-license.svg)](LICENSE) [![CI](assets/support/badge-ci.svg)](https://github.com/Rdraim/modo-espelho/actions) [![release](assets/support/badge-release.svg)](https://github.com/Rdraim/modo-espelho/releases)
+[![license](assets/support/badge-license.svg)](LICENSE) [![CI](assets/support/badge-ci.svg)](https://github.com/Rdraim/modo-espelho/actions) [![release](assets/support/badge-release.svg)](https://github.com/Rdraim/modo-espelho/releases) [![Git](assets/support/badge-git.svg)](https://github.com/Rdraim/modo-espelho/commits/main)
 <!-- public-badges:end -->
 
 <p>
