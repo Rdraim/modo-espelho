@@ -8,7 +8,9 @@
 
 ![modo-espelho](assets/support/project-pt-br.svg)
 
-[![MIT](https://img.shields.io/github/license/Rdraim/modo-espelho?style=flat)](LICENSE) [![CI](https://img.shields.io/github/actions/workflow/status/Rdraim/modo-espelho/ci.yml?branch=main&label=CI&style=flat)](https://github.com/Rdraim/modo-espelho/actions) [![Release](https://img.shields.io/github/v/release/Rdraim/modo-espelho?style=flat)](https://github.com/Rdraim/modo-espelho/releases) [![Git](https://img.shields.io/github/last-commit/Rdraim/modo-espelho?label=Git&style=flat)](https://github.com/Rdraim/modo-espelho/commits/main) [![Stars](https://img.shields.io/github/stars/Rdraim/modo-espelho?style=social)](https://github.com/Rdraim/modo-espelho/stargazers) [![Forks](https://img.shields.io/github/forks/Rdraim/modo-espelho?style=social)](https://github.com/Rdraim/modo-espelho/forks)
+<!-- public-badges:start -->
+[![license](assets/support/badge-license.svg)](LICENSE) [![CI](assets/support/badge-ci.svg)](https://github.com/Rdraim/modo-espelho/actions) [![release](assets/support/badge-release.svg)](https://github.com/Rdraim/modo-espelho/releases) [![Git](assets/support/badge-git.svg)](https://github.com/Rdraim/modo-espelho/commits/main)
+<!-- public-badges:end -->
 
 <p>
   <a href="https://github.com/Rdraim/modo-espelho/tree/main/examples"><img src="assets/support/action-0-pt-br.svg" height="40" width="200" alt="Ver exemplos"></a>
